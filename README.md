@@ -4,7 +4,7 @@ No returbio :v
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Challenge: The dinner table</title>
+        <title>No returbio 😥</title>
     </head>
     <body>
     <style>
